@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <br>
 
 - Passionate about Cybersecurity :computer:, Philosophy :blue_book: and Music :violin:
-- Noob CTF's player
 - Currently learning Telecommunications by UTFSM and Cybersecurity by Self
+- Noob CTF's player
 - I don't like Math
 
 <br><br>
