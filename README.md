@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 
 - Passionate about Cybersecurity :computer:, Philosophy :blue_book: and Music :violin:
 - Currently learning Telecommunications by UTFSM and Cybersecurity by Self
-- Should I kill myself, or have a cup of coffee?
 - Noob CTF's player
 - I don't like Math
 
@@ -164,7 +163,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Should I kill myself, or have a cup of coffee?</b>
 
 </div>
 <br>
