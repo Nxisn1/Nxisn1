@@ -1,6 +1,6 @@
-### Hi 👋, I'm Nxisn
+# Hi 👋, I'm Nxisn
 
-##I'm a engineering student :floppy_disk:
+## I'm a engineering student :floppy_disk:
 
 
 - 😄 Pronouns: Jota
