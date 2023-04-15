@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - Noob CTF's player
 - Currently learning Telecommunications by UTFSM and Cybersecurity by Self
 - I don't like Math
-- 
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
