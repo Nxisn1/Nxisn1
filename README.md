@@ -166,12 +166,5 @@ Here are some ideas to get you started:
 ## <b>Should I kill myself, or have a cup of coffee? -A. Camus</b>
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
----
-
-<br>
 
