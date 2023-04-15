@@ -139,14 +139,6 @@ Here are some ideas to get you started:
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  José Beltrán-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=instragram&logoColor=white" alt=instragram style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
 <a href="mailto:jose.mobarec@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  José Beltrán-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
