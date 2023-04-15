@@ -163,7 +163,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
 
-## <b>Should I kill myself, or have a cup of coffee?</b>
+## <b>Should I kill myself, or have a cup of coffee? -A. Camus</b>
 
 </div>
 <br>
