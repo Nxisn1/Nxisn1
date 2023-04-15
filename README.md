@@ -1,6 +1,6 @@
-# <p align="center"> Hi 👋, I'm Nxisn </p>
+# <p align="center"> Hi 👋, I'm Nxisn 
 
-## I'm a engineering student :floppy_disk:
+## I'm a engineering student :floppy_disk: </p>
 
 
 - 😄 Pronouns: Jota
